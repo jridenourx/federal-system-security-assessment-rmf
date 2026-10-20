@@ -14,7 +14,7 @@ All components and flows are conceptual and have not been validated against a de
 ## Architecture Diagram
 
 ```mermaid
-flowchart TB
+flowchart LR
     U["Agency Employees"]
     ID["Agency Identity Service"]
     
