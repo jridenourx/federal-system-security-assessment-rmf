@@ -1,11 +1,11 @@
 # Security Control Selection — FCMS-001
 
 **Document Status:** Draft — Simulation  
-**Version:** 1.1  
+**Version:** 1.2  
 **System ID:** FCMS-001  
 **Assessment Phase:** Security Control Selection  
-**Reference Framework:** NIST SP 800-53 Revision 5  
-**Baseline Reference:** NIST SP 800-53B  
+**Reference Framework:** NIST SP 800-53 Revision 5, Release 5.2.0  
+**Baseline Reference:** NIST SP 800-53B, Release 5.2.0  
 **Categorization Basis:** Preliminary FIPS 199 assessment
 
 ## 1. Purpose
@@ -20,7 +20,7 @@ This document describes a proposed selection process and priority control areas.
 
 ## 2. Control Selection Approach
 
-NIST SP 800-53 Revision 5 provides the security and privacy control catalog. NIST SP 800-53B provides the security and privacy control baselines and guidance for tailoring those baselines.
+NIST SP 800-53 Revision 5, Release 5.2.0 provides the security and privacy control catalog. NIST SP 800-53B, Release 5.2.0 provides the security and privacy control baselines and guidance for tailoring those baselines.
 
 The proposed approach is to:
 
@@ -95,7 +95,7 @@ The next activities are to:
 1. Validate the system categorization and determine the applicable starting baseline using NIST SP 800-53B.
 2. Document selected controls, enhancements, tailoring decisions, implementation responsibilities, and evidence requirements.
 3. Align the control assessment matrix with the validated control selection.
-4. Develop and tailor assessment procedures using NIST SP 800-53A.
+4. Develop and tailor assessment procedures using NIST SP 800-53A Revision 5, Release 5.2.0.
 5. Record simulated assessment results and document potential findings with clear evidence references and limitations.
 6. Develop and track proposed corrective actions through the POA&M.
 
@@ -103,10 +103,10 @@ Because FCMS-001 is a portfolio simulation, these activities demonstrate an asse
 
 ## 7. References
 
-- NIST SP 800-53 Revision 5, *Security and Privacy Controls for Information Systems and Organizations*: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
-- NIST SP 800-53B, *Control Baselines for Information Systems and Organizations*: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
-- NIST SP 800-53A Revision 5, *Assessing Security and Privacy Controls in Information Systems and Organizations*: https://csrc.nist.gov/pubs/sp/800/53/a/r5/final
-- NIST FIPS 199, *Standards for Security Categorization of Federal Information and Information Systems*: https://csrc.nist.gov/pubs/fips/199/final
+- [NIST SP 800-53 Revision 5, Release 5.2.0 — Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+- [NIST SP 800-53B, Release 5.2.0 — Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
+- [NIST SP 800-53A Revision 5, Release 5.2.0 — Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
+- [NIST FIPS 199 — Standards for Security Categorization of Federal Information and Information Systems](https://csrc.nist.gov/pubs/fips/199/final)
 
 ## 8. Simulation Disclaimer
 
