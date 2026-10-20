@@ -4,7 +4,7 @@
 **System ID:** FCMS-001  
 **System Name:** Federal Benefits Case Management System  
 **Assessment Type:** Tabletop security control assessment using synthetic evidence  
-**Assessment Framework:** NIST RMF concepts, FIPS 199, NIST SP 800-53 Rev. 5, and NIST SP 800-53A Rev. 5  
+**Assessment Framework:** NIST RMF concepts, FIPS 199, NIST SP 800-53 Revision 5, Release 5.2.0, NIST SP 800-53A Revision 5, Release 5.2.0  
 **Report Date:** October 20, 2026  
 **Overall Assessment Status:** Preliminary — validation required
 
@@ -51,8 +51,8 @@ The exercise aimed to:
 
 1. Define the fictional system's purpose, scope, information types, and dependencies.
 2. Develop a preliminary security categorization using FIPS 199 concepts.
-3. Identify relevant security control areas using NIST SP 800-53 Rev. 5.
-4. Define evidence requirements and assessment procedures informed by NIST SP 800-53A Rev. 5.
+3. Identify relevant security control areas using NIST SP 800-53 Revision 5, Release 5.2.0.
+4. Define evidence requirements and assessment procedures informed by NIST SP 800-53A Revision 5, Release 5.2.0.
 5. Review synthetic evidence and document potential control deficiencies.
 6. Propose corrective actions, milestones, and closure criteria.
 
@@ -203,10 +203,11 @@ The project is an educational simulation, not a completed federal security asses
 
 ## 11. References
 
-- NIST Risk Management Framework: https://csrc.nist.gov/projects/risk-management
-- NIST FIPS 199 — Standards for Security Categorization of Federal Information and Information Systems: https://csrc.nist.gov/pubs/fips/199/final
-- NIST SP 800-53 Revision 5 — Security and Privacy Controls for Information Systems and Organizations: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
-- NIST SP 800-53A Revision 5 — Assessing Security and Privacy Controls in Information Systems and Organizations: https://csrc.nist.gov/pubs/sp/800/53/a/r5/final
+- [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management)
+- [NIST FIPS 199 — Standards for Security Categorization of Federal Information and Information Systems](https://csrc.nist.gov/pubs/fips/199/final)
+- [NIST SP 800-53 Revision 5, Release 5.2.0 — Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+- [NIST SP 800-53A Revision 5, Release 5.2.0 — Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
+- [NIST SP 800-53B, Release 5.2.0 — Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
 
 ## 12. Simulation Disclaimer
 
