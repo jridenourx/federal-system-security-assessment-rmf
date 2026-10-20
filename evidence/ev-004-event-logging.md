@@ -2,7 +2,7 @@
 
 **Classification:** SIMULATED EVIDENCE — NOT FROM A REAL SYSTEM  
 **System:** FCMS-001 — Federal Benefits Case Management System  
-**Control:** NIST SP 800-53 Rev. 5, AU-2 — Event Logging  
+**Control:** NIST SP 800-53 Rev. 5, Release 5.2.0, AU-2 — Event Logging  
 **Evidence Type:** Synthetic logging requirements and configuration review  
 **Scenario Date:** October 20, 2026
 
@@ -10,7 +10,7 @@
 
 Determine whether the fictional system has identified the security-relevant events that should be logged and documented requirements for generating those records.
 
-AU-2 concerns the identification of events to be logged. The assessment must also consider applicable organizational requirements and related audit controls.
+The assessment references NIST SP 800-53 Revision 5, Release 5.2.0. AU-2 concerns the identification of events to be logged. The assessment must also consider applicable organizational requirements and related audit controls.
 
 ## 2. Scenario Background
 
