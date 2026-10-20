@@ -3,7 +3,7 @@
 **Document Status:** Draft — Simulation  
 **System ID:** FCMS-001  
 **Assessment Type:** Tabletop assessment using synthetic evidence  
-**Finding Count:** 2 preliminary findings
+**Finding Count:** 2 potential findings under validation
 
 ## 1. Purpose
 
