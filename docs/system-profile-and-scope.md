@@ -1,7 +1,7 @@
 # FCMS-001 — System Profile and Scope
 
 **Document status:** Draft  
-**Version:** 1.1  
+**Version:** 1.2  
 **System ID:** FCMS-001  
 **Environment:** Simulated AWS-hosted federal information system
 
@@ -127,9 +127,11 @@ These are potential risks, not confirmed findings.
 
 ## 7. Initial Security Categorization Hypothesis
 
-Moderate impact is the initial hypothesis for confidentiality, integrity, and availability. No final FIPS 199 categorization has been established.
+The preliminary categorization hypothesis is **Moderate for confidentiality, Moderate for integrity, and Low for availability**, subject to the assumptions and rationale documented in `docs/security-categorization.md`.
 
-Each security objective must be evaluated against the potential consequences of unauthorized disclosure, modification, or loss of availability. The rationale and resulting overall categorization will be documented in a separate Security Categorization Worksheet.
+No final FIPS 199 categorization has been established. Each security objective must be evaluated against the potential consequences of unauthorized disclosure, modification, or loss of availability.
+
+The impact ratings and overall proposed security category remain subject to validation of the information types, agency mission, operational consequences, and applicable requirements.
 
 ## 8. Assumptions and Open Questions
 
