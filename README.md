@@ -62,6 +62,7 @@ The initial security categorization is a preliminary hypothesis and has not been
 |---|---|
 | `docs/findings-register.md` | Preliminary findings, risks, recommendations, and closure criteria |
 | `docs/poam.md` | Proposed remediation actions and milestones |
+| `docs/final-assessment-report.md` | Consolidated assessment scope, methodology, preliminary findings, remediation recommendations, and limitations |
 
 ## Current Assessment Highlights
 
