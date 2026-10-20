@@ -2,7 +2,7 @@
 
 **Document Status:** Draft — Simulation  
 **System ID:** FCMS-001  
-**Assessment Reference:** NIST SP 800-53 Rev. 5 and SP 800-53A Rev. 5  
+**Assessment Reference:** NIST SP 800-53 Revision 5, Release 5.2.0, and NIST SP 800-53A Revision 5, Release 5.2.0  
 **Assessment Type:** Tabletop control assessment using synthetic evidence  
 **Important:** No actual federal system or AWS environment has been assessed.
 
@@ -62,9 +62,9 @@ Both issues require validation. The remaining eight controls have not been asses
 
 ## 6. References
 
-- NIST SP 800-53 Rev. 5 — Security and Privacy Controls for Information Systems and Organizations: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
-- NIST SP 800-53A Rev. 5 — Assessing Security and Privacy Controls in Information Systems and Organizations: https://csrc.nist.gov/pubs/sp/800/53/a/r5/final
-- NIST SP 800-53B — Control Baselines for Information Systems and Organizations: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
+- NIST SP 800-53 Revision 5, Release 5.2.0 — *Security and Privacy Controls for Information Systems and Organizations*: https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
+- NIST SP 800-53A Revision 5, Release 5.2.0 — *Assessing Security and Privacy Controls in Information Systems and Organizations*: https://csrc.nist.gov/pubs/sp/800/53/a/r5/final
+- NIST SP 800-53B, Release 5.2.0 — *Control Baselines for Information Systems and Organizations*: https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final
 
 ## 7. Simulation Disclaimer
 
