@@ -74,7 +74,63 @@ The following is a proposed action, not evidence that remediation has occurred.
 
 The target date should be assigned by the responsible owner based on the approved remediation process and risk priority. No completion date is assumed.
 
-## 5. Closure Criteria
+## 4.1 FCMS-F-002 — Logging Event Selection Requires Validation
+
+**Related control:** AU-2 — Event Logging  
+**Evidence reference:** EV-004  
+**Status:** Open; validation required  
+**Preliminary severity:** Undetermined
+
+### Condition
+
+The synthetic draft event list does not include administrative configuration changes or changes to logging settings and destinations. The available documentation does not establish whether these events are required, intentionally excluded, or captured through other mechanisms.
+
+### Criteria
+
+The applicable AU-2 requirements, organizational logging policy, and approved system event-selection rationale should establish which events must be logged. The exact applicable control requirements and organizational parameters must be confirmed against the selected baseline.
+
+### Cause
+
+The fictional scenario lacks a documented, approved rationale for selecting and excluding security-relevant event categories.
+
+This is the apparent cause within the scenario, not an independently verified root cause.
+
+### Potential risk and impact
+
+If required administrative or logging-configuration changes are not recorded, investigators may have difficulty determining who changed security settings, what changed, and when the change occurred.
+
+The actual likelihood and impact cannot be determined from the synthetic evidence.
+
+### Recommendation
+
+Document and approve the event-selection rationale. Confirm which administrative and logging-configuration events are required, then examine relevant configuration exports and sample records to determine whether the required events are generated and captured.
+
+### Evidence supporting the finding
+
+- **EV-004:** Synthetic event list and logging configuration summary.
+- Administrative configuration changes and logging-configuration changes are absent from the draft list.
+- No actual technical configuration or log records are available.
+
+### Additional validation required
+
+1. Obtain the approved logging policy and event-selection rationale.
+2. Determine whether the missing event categories are required.
+3. Review relevant configuration settings and sample event records.
+4. Confirm whether other logging mechanisms capture the events.
+5. Assign a severity only after the condition and associated risk are sufficiently established.
+
+### Proposed corrective action
+
+If validation confirms a gap, update the logging requirements, configure the applicable event sources, and retain evidence demonstrating that required events are generated and delivered to the intended destination.
+
+## 5. Findings Summary
+
+| Finding ID | Control | Finding title | Preliminary severity | Status |
+|---|---|---|---|---|
+| FCMS-F-001 | AC-2 — Account Management | Account deactivation timeframe is not defined | Moderate — provisional | Open; validation required |
+| FCMS-F-002 | AU-2 — Event Logging | Logging event selection requires validation | Undetermined | Open; validation required |
+
+## 6. Closure Criteria
 
 The finding may be considered for closure when:
 
@@ -85,6 +141,6 @@ The finding may be considered for closure when:
 
 A documented procedure alone may not be sufficient to demonstrate that the control operates effectively.
 
-## 6. Simulation Disclaimer
+## 7. Simulation Disclaimer
 
 FCMS-001, finding FCMS-F-001, and all supporting evidence are fictional. This register is a portfolio learning artifact and does not represent an actual security incident, confirmed vulnerability, or formal federal assessment finding.
