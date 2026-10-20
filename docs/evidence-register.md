@@ -3,22 +3,22 @@
 **Document Status:** Draft — Simulation  
 **System ID:** FCMS-001  
 **Assessment Type:** Tabletop assessment using synthetic evidence  
-**Evidence Status:** Planned; no real system evidence collected
+**Evidence Status:** Synthetic artifacts created for EV-001 and EV-004; remaining items planned
 
 ## 1. Purpose
 
-This register identifies the evidence planned for the fictional FCMS-001 security control assessment. Each item has a unique reference, a defined assessment purpose, and a status.
+This register identifies evidence artifacts used or planned for the fictional FCMS-001 security control assessment. Each item has a unique reference, a defined assessment purpose, and a status.
 
-All evidence described here is synthetic or planned for the exercise. No actual AWS account, federal agency system, user account, or production security log has been accessed.
+All evidence is synthetic and created for this educational exercise. No actual AWS account, federal agency system, user account, production security configuration, or production security log has been accessed.
 
 ## 2. Evidence Register
 
 | Evidence ID | Control reference | Evidence item | Assessment purpose | Status |
 |---|---|---|---|---|
-| EV-001 | AC-2 | Synthetic account inventory and account lifecycle procedure | Assess whether accounts are documented and removal procedures are defined | Planned |
+| EV-001 | AC-2 | Synthetic account inventory and account lifecycle procedure | Assess whether account-management responsibilities and deactivation requirements are documented | Created — synthetic evidence |
 | EV-002 | AC-6 | Synthetic role-permission matrix and privileged account listing | Assess whether permissions align with assigned responsibilities | Planned |
 | EV-003 | IA-2 | Synthetic authentication configuration summary | Assess whether authentication requirements are documented for system users | Planned |
-| EV-004 | AU-2 | Synthetic logging configuration and sample event records | Assess whether relevant security events are configured for logging | Planned |
+| EV-004 | AU-2 | Synthetic event-selection list and logging configuration summary | Assess whether security-relevant event requirements are documented and selected appropriately | Created — synthetic evidence |
 | EV-005 | AU-6 | Synthetic audit-log review procedure and review records | Assess whether audit records are reviewed and anomalies are followed up | Planned |
 | EV-006 | CP-9 | Synthetic backup configuration summary and backup-job history | Assess whether backup coverage and job results support documented requirements | Planned |
 | EV-007 | RA-5 | Synthetic vulnerability scan summary and finding records | Assess whether identified vulnerabilities are documented and tracked | Planned |
@@ -30,16 +30,19 @@ Each evidence artifact created for this exercise should:
 
 1. Display a clear **SIMULATED EVIDENCE — NOT FROM A REAL SYSTEM** label.
 2. Include an evidence ID matching this register.
-3. Identify the fictional source, observation date, and relevant system component where applicable.
-4. Distinguish observed information within the scenario from assumptions and assessor interpretation.
-5. Support a defined assessment procedure and a documented conclusion.
+3. Identify the fictional source, scenario date, and relevant system component where applicable.
+4. Distinguish scenario-defined information from assumptions and assessor interpretation.
+5. Support a defined assessment procedure and documented conclusion.
 6. Avoid real personal information, credentials, secrets, or sensitive production data.
+7. Avoid implying that synthetic records were collected from a live system or independently verified.
 
 ## 4. Assessment Limitations
 
-The evidence will be designed for a small educational assessment sample. It will not establish full compliance with NIST SP 800-53, validate a complete control baseline, or support a real authorization decision.
+The evidence set is a focused educational sample. It does not establish full compliance with NIST SP 800-53, validate a complete control baseline, or support a real authorization decision.
 
-A control conclusion will only be assigned after the relevant synthetic evidence and assessment criteria have been documented and evaluated.
+The existence of a synthetic evidence artifact does not by itself establish that a control is effective or ineffective. Assessment conclusions must be based on the defined criteria, the content of the evidence, and documented limitations.
+
+EV-001 and EV-004 have been created as synthetic artifacts and referenced in preliminary findings. The remaining evidence items are planned and have not yet been created.
 
 ## 5. References
 
@@ -47,4 +50,4 @@ A control conclusion will only be assigned after the relevant synthetic evidence
 
 ## 6. Simulation Disclaimer
 
-FCMS-001 and all evidence created for this assessment are fictional. This register is a portfolio learning artifact and does not represent evidence collected from a real federal system or AWS environment.
+FCMS-001 and all evidence artifacts created for this assessment are fictional. This register is a portfolio learning artifact and does not represent evidence collected from a real federal system or AWS environment.
