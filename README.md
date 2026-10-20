@@ -2,7 +2,7 @@
 
 **Project ID:** FCMS-001  
 **Project Type:** Fictional federal security assessment simulation  
-**Frameworks:** NIST Risk Management Framework (RMF), FIPS 199, NIST SP 800-53, and NIST SP 800-53A
+**Frameworks:** NIST Risk Management Framework (RMF), FIPS 199, NIST SP 800-53 Revision 5, Release 5.2.0, NIST SP 800-53A Revision 5, Release 5.2.0, and NIST SP 800-53B, Release 5.2.0
 
 ## Project Overview
 
@@ -105,8 +105,9 @@ The approach is informed by NIST publications. It is not a complete implementati
 
 - [NIST Risk Management Framework](https://csrc.nist.gov/projects/risk-management)
 - [FIPS 199 — Standards for Security Categorization of Federal Information and Information Systems](https://csrc.nist.gov/pubs/fips/199/final)
-- [NIST SP 800-53 Rev. 5 — Security and Privacy Controls](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
-- [NIST SP 800-53A Rev. 5 — Assessing Security and Privacy Controls](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
+- [NIST SP 800-53 Revision 5, Release 5.2.0 — Security and Privacy Controls for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final)
+- [NIST SP 800-53A Revision 5, Release 5.2.0 — Assessing Security and Privacy Controls in Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/a/r5/final)
+- [NIST SP 800-53B, Release 5.2.0 — Control Baselines for Information Systems and Organizations](https://csrc.nist.gov/pubs/sp/800/53/b/upd1/final)
 
 ## Disclaimer
 
