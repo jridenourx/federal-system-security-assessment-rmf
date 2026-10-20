@@ -2,7 +2,7 @@
 
 **Classification:** SIMULATED EVIDENCE — NOT FROM A REAL SYSTEM  
 **System:** FCMS-001 — Federal Benefits Case Management System  
-**Control:** NIST SP 800-53 Rev. 5, AC-2 — Account Management  
+**Control:** NIST SP 800-53 Rev. 5, Release 5.2.0, AC-2 — Account Management
 **Evidence Type:** Synthetic account inventory and lifecycle review  
 **Scenario Date:** October 20, 2026  
 **Prepared For:** Educational security control assessment
