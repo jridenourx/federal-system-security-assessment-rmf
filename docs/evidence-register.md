@@ -23,6 +23,8 @@ All evidence is synthetic and created for this educational exercise. No actual A
 | EV-006 | CP-9 | Synthetic backup configuration summary and backup-job history | Assess whether backup coverage and job results support documented requirements | Planned |
 | EV-007 | RA-5 | Synthetic vulnerability scan summary and finding records | Assess whether identified vulnerabilities are documented and tracked | Planned |
 | EV-008 | SI-2 | Synthetic remediation tickets and patch records | Assess whether selected flaws are tracked through remediation or documented exceptions | Planned |
+| EV-009 | CM-6 | Synthetic configuration baseline, configuration settings summary, and exception records | Assess whether selected system settings are defined, approved, and evaluated against a baseline | Planned |
+| EV-010 | IR-4 | Synthetic incident response procedures, incident records, or tabletop exercise results | Assess whether incident-handling responsibilities and response procedures are documented and exercised | Planned |
 
 ## 3. Evidence Handling Requirements
 
@@ -35,6 +37,7 @@ Each evidence artifact created for this exercise should:
 5. Support a defined assessment procedure and documented conclusion.
 6. Avoid real personal information, credentials, secrets, or sensitive production data.
 7. Avoid implying that synthetic records were collected from a live system or independently verified.
+8. Be updated in this register if its description, scope, or status changes.
 
 ## 4. Assessment Limitations
 
@@ -42,7 +45,7 @@ The evidence set is a focused educational sample. It does not establish full com
 
 The existence of a synthetic evidence artifact does not by itself establish that a control is effective or ineffective. Assessment conclusions must be based on the defined criteria, the content of the evidence, and documented limitations.
 
-EV-001 and EV-004 have been created as synthetic artifacts and referenced in preliminary findings. The remaining evidence items are planned and have not yet been created.
+EV-001 and EV-004 have been created as synthetic artifacts and referenced in preliminary findings. EV-002, EV-003, and EV-005 through EV-010 are planned and have not yet been created.
 
 ## 5. References
 
